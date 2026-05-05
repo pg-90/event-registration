@@ -25,7 +25,6 @@ workflows:
       '
     meta:
       bitrise.io:
-        machine_type_id: g2.linux.medium
         stack: linux-docker-android-22.04
     steps:
     - git-clone@8: {}

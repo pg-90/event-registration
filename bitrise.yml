@@ -190,5 +190,5 @@ workflows:
         title: Type-check
 meta:
   bitrise.io:
-    stack: osx-xcode-26.4.x
-    machine_type_id: g2.mac.4x-large
+    stack: ubuntu-noble-24.04-bitrise-2025-android
+    machine_type_id: g2.linux.3x-large
